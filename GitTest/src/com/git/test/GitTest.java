@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		System.out.println("Git Is Fun");
 		System.out.println("Eclipse commit");
+		System.out.println("Git Commit");
 	}
 
 }
