@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("Git Is Fun");
 		System.out.println("Eclipse commit");
 		System.out.println("Git Commit");
+		System.out.println("Git no fetch Commit");
 	}
 
 }
